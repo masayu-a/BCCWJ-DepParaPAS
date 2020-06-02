@@ -44,14 +44,14 @@ http://link.springer.com/article/10.1007/s10579-013-9261-0
 浅原正幸，大村舞，松本裕治．"BCCWJ-DepParaPAS: 『現代日本語書き言葉均衡コーパス』依存構造アノテーションの重ね合わせ." 言語処理学会第22回年次大会発表論文集 (2016): (To Appear).
 
 ### BibTeX
-% Syntactic Dependency and Coordination Structure
-@inProceedings{浅原正幸2013bccwj,
-  title={『現代日本語書き言葉均衡コーパス』に対する係り受け・並列構造アノテーション},
-  author={浅原 正幸 and 松本 裕治},
-  booktitle = {言語処理学会第19回年次大会発表論文集},
-  pages = 	 {66--69},
-  year = 	 {2013}
-}
+  % Syntactic Dependency and Coordination Structure
+  @inProceedings{浅原正幸2013bccwj,
+    title={『現代日本語書き言葉均衡コーパス』に対する係り受け・並列構造アノテーション},
+    author={浅原 正幸 and 松本 裕治},
+    booktitle = {言語処理学会第19回年次大会発表論文集},
+    pages = 	 {66--69},
+    year = 	 {2013}
+  }
 
 % Sentence Segmentation
 @inProceedings{小西光2013bccwj,
