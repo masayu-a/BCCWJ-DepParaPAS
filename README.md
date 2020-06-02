@@ -1,5 +1,8 @@
 # BCCWJ-DepParaPAS version 3.3.0_1.2.0_20200601
 Syntactic and semantic relation annotation on BCCWJ
+
+**You can get the annotation files via https://bccwj-data.ninjal.ac.jp/ after buying the BCCWJ DVD Edition.**
+
 ## Files and directories
 - README.md	this file
 - AUTHORS	author of this package
