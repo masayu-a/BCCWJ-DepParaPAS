@@ -44,55 +44,55 @@ http://link.springer.com/article/10.1007/s10579-013-9261-0
 浅原正幸，大村舞，松本裕治．"BCCWJ-DepParaPAS: 『現代日本語書き言葉均衡コーパス』依存構造アノテーションの重ね合わせ." 言語処理学会第22回年次大会発表論文集 (2016): (To Appear).
 
 ### BibTeX
-  % Syntactic Dependency and Coordination Structure
-  @inProceedings{浅原正幸2013bccwj,
-    title={『現代日本語書き言葉均衡コーパス』に対する係り受け・並列構造アノテーション},
-    author={浅原 正幸 and 松本 裕治},
-    booktitle = {言語処理学会第19回年次大会発表論文集},
-    pages = 	 {66--69},
-    year = 	 {2013}
-  }
-
-% Sentence Segmentation
-@inProceedings{小西光2013bccwj,
-  title={BCCWJ 係り受け関係アノテーション付与のための文境界再認定},
-  author={小西光 and 小山田由紀 and 浅原正幸 and 柏野 和佳子 and 前川喜久雄},
-  booktitle = {第3回コーパス日本語学ワークショップ予稿集},
-  pages = 	 {135--142},
-  year = 	 {2013},
-  organization = {国立国語研究所}
-}
-
-% BCCWJ Original Data
-@article{maekawa2014balanced,
-  title={Balanced corpus of contemporary written Japanese},
-  author={MAEKAWA, Kikuo and YAMAZAKI, Makoto and OGISO, Toshinobu and MARUYAMA, Takehiko and OGURA, Hideki and KASHINO, Wakako and KOISO, Hanae and YAMAGUCHI, Masaya and TANAKA, Makiro and DEN, Yasuharu},
-  journal={Language resources and evaluation},
-  volume={48},
-  number={2},
-  pages={345--371},
-  year={2014},
-  publisher={Springer}
-}
-
-% Semantic Dependency and Coreference Information
-@inProceedings{植田禎子2015bccwj,
-  title={『現代日本語書き言葉均衡コーパス』に対する述語項構造・アノテーション},
-  author={植田禎子 and 飯田龍 and 浅原正幸 and 松本裕治 and 徳永健伸},
-  booktitle = {第8回コーパス日本語学ワークショップ予稿集},
-  pages = 	 {205--214},
-  year = 	 {2015},
-  organization = {国立国語研究所}
-}
-
-% the Resource
-@inProceedings{浅原正幸2016bccwj,
-  title={BCCWJ-DepParaPAS: 『現代日本語書き言葉均衡コーパス』依存構造アノテーションの重ね合わせ (To Appear)},
-  author={浅原 正幸 and 大村 舞 and 松本 裕治},
-  booktitle = {言語処理学会第22回年次大会発表論文集},
-  pages = 	 {489--492},
-  year = 	 {2016}
-}
+    % Syntactic Dependency and Coordination Structure
+    @inProceedings{浅原正幸2013bccwj,
+     title={『現代日本語書き言葉均衡コーパス』に対する係り受け・並列構造アノテーション},
+     author={浅原 正幸 and 松本 裕治},
+     booktitle = {言語処理学会第19回年次大会発表論文集},
+     pages = 	 {66--69},
+     year = 	 {2013}
+    }
+    
+    % Sentence Segmentation
+    @inProceedings{小西光2013bccwj,
+      title={BCCWJ 係り受け関係アノテーション付与のための文境界再認定},
+      author={小西光 and 小山田由紀 and 浅原正幸 and 柏野 和佳子 and 前川喜久雄},
+      booktitle = {第3回コーパス日本語学ワークショップ予稿集},
+      pages = 	 {135--142},
+      year = 	 {2013},
+      organization = {国立国語研究所}
+    }
+    
+    % BCCWJ Original Data
+    @article{maekawa2014balanced,
+      title={Balanced corpus of contemporary written Japanese},
+      author={MAEKAWA, Kikuo and YAMAZAKI, Makoto and OGISO, Toshinobu and MARUYAMA, Takehiko and OGURA, Hideki and KASHINO, Wakako and KOISO, Hanae and YAMAGUCHI, Masaya and TANAKA, Makiro and DEN, Yasuharu},
+      journal={Language resources and evaluation},
+      volume={48},
+      number={2},
+      pages={345--371},
+      year={2014},
+      publisher={Springer}
+    }
+    
+    % Semantic Dependency and Coreference Information
+    @inProceedings{植田禎子2015bccwj,
+      title={『現代日本語書き言葉均衡コーパス』に対する述語項構造・アノテーション},
+      author={植田禎子 and 飯田龍 and 浅原正幸 and 松本裕治 and 徳永健伸},
+      booktitle = {第8回コーパス日本語学ワークショップ予稿集},
+      pages = 	 {205--214},
+      year = 	 {2015},
+      organization = {国立国語研究所}
+    }
+    
+    % the Resource
+    @inProceedings{浅原正幸2016bccwj,
+      title={BCCWJ-DepParaPAS: 『現代日本語書き言葉均衡コーパス』依存構造アノテーションの重ね合わせ},
+      author={浅原 正幸 and 大村 舞 and 松本 裕治},
+      booktitle = {言語処理学会第22回年次大会発表論文集},
+      pages = 	 {489--492},
+      year = 	 {2016}
+    }
 
 ## ファイル形式
 
