@@ -1,0 +1,46 @@
+2020-06-01    <masayu-a@ninjal.ac.jp>
+
+	* BCCWJ-DepParaPAS version 3.3.0_1.2.0_20200601 package
+
+	include LUW data
+
+	
+2016-02-15    <masayu-a@ninjal.ac.jp>
+
+	* BCCWJ-DepParaPAS version 3.2.0_1.2.0_20160215 package
+
+	the discrepancies of bunsetsu boundaries and sentence boundaries are resolved by Mizuho Imada.
+	ChaKi.NET SQLite db files with head information (ChaKi.NET verskon 3.02 rev. 520 or later)
+	
+
+	2016-03-01    <masayu-a@ninjal.ac.jp>
+
+	* BCCWJ-DepParaPAS version 3.3.0_1.2.0_20160301 package
+
+	the discrepancies of bunsetsu boundaries and sentence boundaries are resolved by Mizuho Imada.
+	
+2016-02-15    <masayu-a@ninjal.ac.jp>
+
+	* BCCWJ-DepParaPAS version 3.2.0_1.2.0_20160215 package
+
+	the discrepancies of bunsetsu boundaries and sentence boundaries are resolved by Mizuho Imada.
+	ChaKi.NET SQLite db files with head information (ChaKi.NET verskon 3.02 rev. 520 or later)
+	
+2016-02-01    <masayu-a@ninjal.ac.jp>
+
+	* BCCWJ-DepParaPAS version 3.1.0_1.2.0_20160201 package
+
+	include Extended CaboCha format and ChaKi.NET SQLite db
+	some CoRef modifications.
+	
+2016-01-15    <masayu-a@ninjal.ac.jp>
+
+	* BCCWJ-DepParaPAS version 3.1.0_1.1.0_20160115 package
+
+	the dependency tags of "FX" and "O" are removed.
+	some PAS modifications.
+	
+2015-10-27    <masayu-a@ninjal.ac.jp>
+
+	* BCCWJ-DepParaPAS version 3.0.0_1.0.0_20151101 package
+
