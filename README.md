@@ -1,13 +1,13 @@
 # BCCWJ-DepParaPAS version 3.3.0_1.2.0_20200601
 Syntactic and semantic relation annotation on BCCWJ
 ## Files and directories
-- 00README.md	this file
+- README.md	this file
 - AUTHORS	author of this package
 - ChangeLog	change log
 - COPYING	copyright
 - NEWS	version history
-- ntc/	the data -- NAIST Text Corpus formatted
-- cabocha/ the data -- Extended CaboCha formatted 
+- ntc/	the data -- NAIST Text Corpus formatted   (available via NINJAL server)
+- cabocha/ the data -- Extended CaboCha formatted  (available via NINJAL server)
 - doc/	documents and papers
 
 ## Licence
