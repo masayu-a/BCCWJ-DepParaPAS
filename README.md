@@ -26,9 +26,9 @@ Whenever you refer to this resource, you must cite all of the following five man
 
 ### MLA Styles
 - Syntactic Dependency and Coordination Structure
-浅原正幸，松本裕治. "『現代日本語書き言葉均衡コーパス』に対する係り受け・並列構造アノテーション." 言語処理学会第19回年次大会発表論文集 (2013): 66-69.
+浅原正幸，松本裕治. "『現代日本語書き言葉均衡コーパス』に対する係り受け・並列構造アノテーション." 『自然言語処理』 vol. 25, no.4, (2018): 331-356.
 
-http://www.anlp.jp/proceedings/annual_meeting/2013/pdf_dir/X1-2.pdf
+https://doi.org/10.5715/jnlp.25.331
 
 - Sentence Segmentation
 小西光ほか. "BCCWJ 係り受け関係アノテーション付与のための文境界再認定." 第3回コーパス日本語学ワークショップ予稿集 (2013): 135-142.
@@ -43,17 +43,23 @@ http://link.springer.com/article/10.1007/s10579-013-9261-0
 - Semantic Dependency and Coreference Information
 植田禎子ほか. "『現代日本語書き言葉均衡コーパス』に対する述語項構造・アノテーション." 第8回コーパス日本語学ワークショップ予稿集 (2015): 205-214.
 
+https://www.ninjal.ac.jp/event/specialists/project-meeting/files/JCLWorkshop_no8_papers/JCLWorkshop_No.8_24.pdf
+
 - the Resource
-浅原正幸，大村舞，松本裕治．"BCCWJ-DepParaPAS: 『現代日本語書き言葉均衡コーパス』依存構造アノテーションの重ね合わせ." 言語処理学会第22回年次大会発表論文集 (2016): 489--492.
+浅原正幸，大村舞，松本裕治．"BCCWJ-DepParaPAS:『現代日本語書き言葉均衡コーパス』係り受け・並列構造と述語項構造・共参照アノテーションの重ね合わせと可視化" 言語処理学会第22回年次大会発表論文集 (2016): 489--492.
+
+http://www.anlp.jp/proceedings/annual_meeting/2016/pdf_dir/P12-2.pdf
 
 ### BibTeX
     % Syntactic Dependency and Coordination Structure
-    @inProceedings{浅原正幸2013bccwj,
+    @Article{浅原正幸2018,
      title={『現代日本語書き言葉均衡コーパス』に対する係り受け・並列構造アノテーション},
      author={浅原 正幸 and 松本 裕治},
-     booktitle = {言語処理学会第19回年次大会発表論文集},
-     pages = 	 {66--69},
-     year = 	 {2013}
+     journal = {自然言語処理},
+     volume = {25},
+     number = {4},
+     pages = 	 {331--356},
+     year = 	 {2018}
     }
     
     % Sentence Segmentation
@@ -80,7 +86,7 @@ http://link.springer.com/article/10.1007/s10579-013-9261-0
     
     % Semantic Dependency and Coreference Information
     @inProceedings{植田禎子2015bccwj,
-      title={『現代日本語書き言葉均衡コーパス』に対する述語項構造・アノテーション},
+      title={『現代日本語書き言葉均衡コーパス』に対する述語項構造・共参照情報アノテーション},
       author={植田禎子 and 飯田龍 and 浅原正幸 and 松本裕治 and 徳永健伸},
       booktitle = {第8回コーパス日本語学ワークショップ予稿集},
       pages = 	 {205--214},
@@ -90,8 +96,8 @@ http://link.springer.com/article/10.1007/s10579-013-9261-0
     
     % the Resource
     @inProceedings{浅原正幸2016bccwj,
-      title={BCCWJ-DepParaPAS: 『現代日本語書き言葉均衡コーパス』依存構造アノテーションの重ね合わせ},
-      author={浅原 正幸 and 大村 舞 and 松本 裕治},
+      title={BCCWJ-DepParaPAS:『現代日本語書き言葉均衡コーパス』係り受け・並列構造と述語項構造・共参照アノテーションの重ね合わせと可視化},
+      author={浅原 正幸 and 大村 舞},
       booktitle = {言語処理学会第22回年次大会発表論文集},
       pages = 	 {489--492},
       year = 	 {2016}
